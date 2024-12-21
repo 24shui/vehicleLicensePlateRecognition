@@ -1,0 +1,3 @@
+/mnt/c/Users/Administrator/Desktop/RK1808/已完成项目/RK1808车牌识别_END/rk1808_show_bmp/bulid/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Administrator/Desktop/RK1808/已完成项目/RK1808车牌识别_END/rk1808_show_bmp/bulid/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Administrator/Desktop/RK1808/已完成项目/RK1808车牌识别_END/rk1808_show_bmp/bulid/CMakeFiles/main.dir
